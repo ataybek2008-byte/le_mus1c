@@ -37,8 +37,8 @@
     "brand_new": -65536,
     "brand_new_500": -65536,
 
-    "primary_dark_100": -3355444,
-    "primary_dark_200": -5592406,
+    "primary_dark_100": -12237238,
+    "primary_dark_200": -14208206,
     "primary_dark_300": -7829368,
     "primary_dark_360": -11184811,
     "primary_dark_600": -870704096,
@@ -49,7 +49,7 @@
     "primary_dark_900": -1,
 
     "uikit_btn_bg_color_selector_red": -65536,
-    "uikit_settings_item_text_color_dark": -3355444,
+    "uikit_settings_item_text_color_dark": -12237238,
     "white_500": -16777216,
 
     "status_online": -3355444,
@@ -67,7 +67,7 @@
   "drawable_tints": {
     "drawable_bg_reaction_dark": -870704096,
     "drawable_overlay_channels_selected_dark": -870704096,
-    "ic_channel_text": -3355444,
+    "ic_channel_text": -12237238,
     "ic_sidebar_notifications_on_dark_24dp": -65536,
     "ic_sidebar_notifications_off_dark_24dp": -11184811,
     "ic_status_online_16dp": -3355444,
