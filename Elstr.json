@@ -14,10 +14,10 @@
   },
   "fonts": {},
   "simple_colors": {
-    "accent": -4121572,              // #C01C1C карминный алый
-    "background": -16185078,        // #08090A угольно-чёрный
-    "background_secondary": -15535081, // #121417 сланцевый графит
-    "input_background": -870704096, // #CC1A1C20 полупрозрачный гранит
+    "accent": -4121572,
+    "background": -16185078,
+    "background_secondary": -15535081,
+    "input_background": -870704096,
     "blocked_bg": -870704096,
     "statusbar": -16185078,
     "mention_highlight": -4121572,
@@ -36,27 +36,27 @@
     "brand_900": -4121572,
     "brand_new": -4121572,
     "brand_new_500": -4121572,
-
-    "primary_dark_100": -9933195,   // #5A5A5A стальной серый
-    "primary_dark_200": -11890859,  // #2E2E2E графитовый серый
-    "primary_dark_300": -7304043,   // #707070 дымчатый серый
-    "primary_dark_360": -460551,    // #4A1C1C бордо
-    "primary_dark_600": -870704096, // гранит карточек
+    "primary_dark_100": -9933195,
+    "primary_dark_200": -11890859,
+    "primary_dark_300": -7304043,
+    "primary_dark_360": -460551,
+    "primary_dark_600": -870704096,
     "primary_dark_630": -870704096,
     "primary_dark_660": -870704096,
-    "primary_dark_700": -16185078,  // угольно-чёрный
-    "primary_dark_800": -15535081,  // сланцевый графит
-    "primary_dark_900": -140000,    // тёмный кармин
-
+    "primary_dark_700": -16185078,
+    "primary_dark_800": -15535081,
+    "primary_dark_900": -140000,
     "uikit_btn_bg_color_selector_red": -4121572,
     "uikit_settings_item_text_color_dark": -9933195,
-    "white_500": -5878605,          // бетонно-серебристый
-
-    "status_online": -9933195,      // серый вместо зелёного
-    "status_idle": -460551,         // бордо вместо жёлтого
-    "status_dnd": -4121572,         // красный
-    "status_offline": -11890859,    // графитовый серый
-    "danger_500": -4121572,         // красный вместо розового
+    "white_500": -5878605,
+    "status_online": -9933195,
+    "status_idle": -460551,
+    "status_dnd": -4121572,
+    "status_offline": -11890859,
+    "status_green_500": -9933195,
+    "status_yellow": -460551,
+    "status_grey_200": -11890859,
+    "danger_500": -4121572,
     "danger_600": -4121572,
     "danger_700": -4121572
   },
