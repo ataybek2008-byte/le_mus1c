@@ -3,17 +3,17 @@
         "author": "twixxty",
         "version": "1.0.0",
         "name": "nycto",
-        "updater": "https://raw.githubusercontent.com/twixxty/nycto/refs/heads/main/nycto.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/twixxty\/nycto\/refs\/heads\/main\/nycto.json"
     },
     "background": {
-        "url": "https://github.com/ataybek2008-byte/le_mus1c/blob/main/IMG_20260905_154007.png?raw=true",
+        "url": "https:\/\/raw.githubusercontent.com\/twixxty\/nycto\/refs\/heads\/main\/zE6RNN7D.png",
         "blur_radius": 10,
         "overlay_alpha": 10
     },
     "fonts": {
-        "ginto_bold": "https://github.com/twixxty/Expressive-Violet/raw/refs/heads/main/Poppins-ExtraBoldItalic.ttf",
-        "ginto_medium": "https://github.com/twixxty/Expressive-Violet/raw/refs/heads/main/Poppins-Medium.ttf",
-        "ginto_regular": "https://github.com/twixxty/Expressive-Violet/raw/refs/heads/main/Poppins-Regular.ttf"
+        "ginto_bold": "https:\/\/github.com\/twixxty\/Expressive-Violet\/raw\/refs\/heads\/main\/Poppins-ExtraBoldItalic.ttf",
+        "ginto_medium": "https:\/\/github.com\/twixxty\/Expressive-Violet\/raw\/refs\/heads\/main\/Poppins-Medium.ttf",
+        "ginto_regular": "https:\/\/github.com\/twixxty\/Expressive-Violet\/raw\/refs\/heads\/main\/Poppins-Regular.ttf"
     },
     "simple_colors": {
         "statusbar": 1577753,
