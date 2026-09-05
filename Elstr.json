@@ -4,7 +4,9 @@
         "name": "Elstr",
         "version": "1.0.0"
     },
-    "background": {},
+    "background": {
+        "url": ""
+    },
     "fonts": {},
     "simple_colors": {},
     "colors": {},
