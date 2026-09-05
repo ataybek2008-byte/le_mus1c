@@ -2,7 +2,7 @@
   "manifest": {
     "author": "le_mus1c",
     "name": "Elstr",
-    "version": "1.7.0",
+    "version": "1.8.0",
     "transparency_mode": 3
   },
   "background": {
@@ -41,8 +41,8 @@
     "uikit_btn_bg_color_selector_red": -4121572,
     "uikit_settings_item_text_color_dark": -9933195, // #5A5A5A
     "white_500": -5878605,          // #A6ACB3 бетонно-серебристый
-    "status_green_500": -9933195,   // #5A5A5A стальной серый
-    "status_yellow": -460551,       // #4A1C1C бордо
+    "status_green_500": -9933195,   // #5A5A5A серый вместо зелёного
+    "status_yellow": -460551,       // #4A1C1C бордо вместо жёлтого
     "status_grey_200": -11890859    // #2E2E2E графитовый серый
   },
   "drawable_tints": {
@@ -51,10 +51,10 @@
     "ic_channel_text": -9933195,
     "ic_sidebar_notifications_on_dark_24dp": -4121572,
     "ic_sidebar_notifications_off_dark_24dp": -11890859,
-    "ic_status_online_16dp": -9933195,
-    "ic_status_dnd_16dp": -4121572,
-    "ic_status_idle_16dp": -460551,
-    "ic_status_offline_16dp": -11890859
+    "ic_status_online_16dp": -9933195,   // серый вместо зелёного
+    "ic_status_dnd_16dp": -4121572,      // красный
+    "ic_status_idle_16dp": -460551,      // бордо вместо жёлтого
+    "ic_status_offline_16dp": -11890859  // графитовый серый
   },
   "raws": {}
 }
