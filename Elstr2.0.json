@@ -2,7 +2,7 @@
 "manifest": {
 "author": "le_mus1c",
 "name": "Elstr",
-"version": "3.1.0",
+"version": "3.2.0",
 "transparency_mode": 3
 },
 
@@ -49,8 +49,11 @@
 "brand_new": -1754827,
 "brand_new_500": -1754827,
 "brand_new_560": -1754827,
+
 "brand_new_260": -2536886,
 "brand_new_360": -1754827,
+
+"brand_500_alpha_20": -5754318,
 
 "primary_dark_100": -9408400,
 "primary_dark_200": -9408400,
@@ -69,7 +72,7 @@
 "primary_300": -13619152,
 "primary_600": -15198184,
 "primary_630": -15198184,
-"primary_660": -13619152,
+"primary_660": -9408400,
 "primary_700": -13619152,
 
 "primary_700_alpha_60": -5754318,
@@ -77,20 +80,11 @@
 "black_alpha_10": -1677721590,
 "black_alpha_80": -1342177268,
 
-"transparent": 0,
-
-"uikit_btn_bg_color_selector_brand": -15198184,
-"uikit_btn_bg_color_selector_green": -15198184,
-"uikit_btn_bg_color_selector_red": -1754827,
-
-"uikit_settings_item_text_color_dark": -9408400,
-"uikit_settings_item_text_color_light": -9408400,
-
 "white": -9408400,
 
 "white_500": -1754827,
 
-"white_800": -9408400,
+"white_800": -15198184,
 
 "link": -2536886,
 "link_500": -2536886,
@@ -110,25 +104,33 @@
 
 "abc_tint_switch_track": -9408400,
 
-"dim_foreground_material_light": -16119286
+"dim_foreground_material_light": -16119286,
+
+"transparent": 0,
+
+"uikit_btn_bg_color_selector_brand": -15198184,
+"uikit_btn_bg_color_selector_green": -15198184,
+"uikit_btn_bg_color_selector_red": -1754827,
+
+"uikit_settings_item_text_color_dark": -9408400,
+"uikit_settings_item_text_color_light": -9408400
 
 },
 
-"drawable_tints": {
+"drawableTints": {
 
 "drawable_bg_reaction_dark": -870178270,
 
 "drawable_overlay_channels_selected_dark": -13619152,
 "drawable_overlay_channels_pressed_dark": -15198184,
 
-"item_background_material": -15198184,
-
-"design_bottom_navigation_item_background": -15198184,
-
 "drawable_button_grey": -9408400,
+"drawable_button_red": -1754827,
+
 "drawable_open_folder_dark": -9408400,
 
-"drawable_button_red": -1754827,
+"item_background_material": -15198184,
+"design_bottom_navigation_item_background": -15198184,
 
 "drawable_voice_indicator_speaking": -1754827,
 "drawable_voice_user_background_speaking": -15198184,
@@ -177,7 +179,22 @@
 "ic_notifications_settings_white_a60_24dp": -9408400,
 "ic_account_circle_white_a60_24dp": -9408400,
 
-"icon_save": -9408400
+"icon_save": -9408400,
+
+"ic_hypesquad_house1_32dp": -9408400,
+"ic_hypesquad_house2_32dp": -9408400,
+"ic_hypesquad_house3_32dp": -9408400,
+
+"ic_account_github_white_24dp": -9408400,
+"ic_account_steam_white_24dp": -9408400,
+"ic_account_twitter_light_and_dark_24dp": -9408400,
+"ic_account_twitch_light_and_dark_24dp": -9408400,
+"ic_account_spotify_light_and_dark_24dp": -9408400,
+"ic_account_youtube_light_and_dark_24dp": -9408400,
+"ic_account_reddit_light_and_dark_24dp": -9408400,
+"ic_account_xbox_white_24dp": -9408400,
+"ic_account_playstation_white_24dp": -9408400,
+"ic_account_battlenet_light_and_dark_24dp": -9408400
 
 },
 
