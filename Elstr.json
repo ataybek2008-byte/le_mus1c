@@ -2,48 +2,48 @@
   "manifest": {
     "author": "le_mus1c",
     "name": "Elstr",
-    "version": "1.5.0",
+    "version": "1.6.0",
     "transparency_mode": 3
   },
   "background": {
     "url": "https://raw.githubusercontent.com/ataybek2008-byte/le_mus1c/refs/heads/main/Picsart_26-09-05_21-33-22-365.jpg",
     "scrolling": false,
-    "blur_radius": 8,
-    "transparency_alpha": 195,
-    "overlay_alpha": 55
+    "blur_radius": 0,
+    "transparency_alpha": 0,
+    "overlay_alpha": 0
   },
   "fonts": {},
   "simple_colors": {
-    "accent": -4121572,
-    "background": -16185078,
-    "background_secondary": -15535081,
-    "input_background": -870704096,
+    "accent": -4121572,              // карминный алый (#C01C1C)
+    "background": -16185078,        // угольно-чёрный (#08090A)
+    "background_secondary": -15535081, // сланцевый графит (#121417)
+    "input_background": -870704096, // полупрозрачный гранит (#CC1A1C20)
     "blocked_bg": -870704096,
     "statusbar": -16185078,
-    "mention_highlight": 1086323740,
+    "mention_highlight": -4121572,
     "active_channel": -4121572
   },
   "colors": {
     "brand_500": -4121572,
-    "brand_560": -7864304,
+    "brand_560": -4121572,
     "brand_new": -4121572,
     "brand_new_500": -4121572,
-    "primary_dark_100": -5878605,
-    "primary_dark_200": -7304043,
-    "primary_dark_300": -9933195,
-    "primary_dark_360": -11890859,
-    "primary_dark_600": -870704096,
+    "primary_dark_100": -9933195,   // стальной серый (#5A5A5A)
+    "primary_dark_200": -11890859,  // графитовый серый (#2E2E2E)
+    "primary_dark_300": -7304043,   // серый дымчатый (#707070)
+    "primary_dark_360": -460551,    // приглушённый бордо (#4A1C1C)
+    "primary_dark_600": -870704096, // гранит карточек (#CC1A1C20)
     "primary_dark_630": -870704096,
     "primary_dark_660": -870704096,
-    "primary_dark_700": -16185078,
-    "primary_dark_800": -15535081,
-    "primary_dark_900": -16185078,
+    "primary_dark_700": -16185078,  // угольно-чёрный (#08090A)
+    "primary_dark_800": -15535081,  // сланцевый графит (#121417)
+    "primary_dark_900": -140000,    // тёмный кармин (#140000)
     "uikit_btn_bg_color_selector_red": -4121572,
-    "uikit_settings_item_text_color_dark": -5878605,
-    "white_500": -5878605,
-    "status_green_500": -11786128,
-    "status_yellow": -7581653,
-    "status_grey_200": -11890859
+    "uikit_settings_item_text_color_dark": -9933195,
+    "white_500": -9933195,          // заменён на стальной серый
+    "status_green_500": -7304043,   // заменён на серый дымчатый
+    "status_yellow": -460551,       // заменён на бордо
+    "status_grey_200": -11890859    // графитовый серый
   },
   "drawable_tints": {
     "drawable_bg_reaction_dark": -870704096,
@@ -51,9 +51,9 @@
     "ic_channel_text": -9933195,
     "ic_sidebar_notifications_on_dark_24dp": -4121572,
     "ic_sidebar_notifications_off_dark_24dp": -11890859,
-    "ic_status_online_16dp": -11786128,
+    "ic_status_online_16dp": -7304043,
     "ic_status_dnd_16dp": -4121572,
-    "ic_status_idle_16dp": -7581653,
+    "ic_status_idle_16dp": -460551,
     "ic_status_offline_16dp": -11890859
   },
   "raws": {}
