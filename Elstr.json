@@ -14,47 +14,47 @@
   },
   "fonts": {},
   "simple_colors": {
-    "accent": -15458304,
-    "background": -16111094,
-    "background_secondary": -15453164,
-    "input_background": -869936108,
-    "blocked_bg": -869936108,
-    "statusbar": -16111094,
-    "mention_highlight": 1075052544,
-    "active_channel": -15458304
+    "accent": -65536,              // яркий красный (#FF0000)
+    "background": -1644826,        // глубокий чёрный (#0A0A0A)
+    "background_secondary": -15132390, // графитовый серый (#2E2E2E)
+    "input_background": -6710887,  // стальной серый (#5A5A5A)
+    "blocked_bg": -6710887,
+    "statusbar": -1644826,
+    "mention_highlight": -65536,   // красный акцент
+    "active_channel": -65536
   },
   "colors": {
-    "brand_500": -15458304,
-    "brand_560": -14150636,
-    "brand_new": -15458304,
-    "brand_new_500": -15458304,
-    "primary_dark_100": -855310,
-    "primary_dark_200": -5197136,
-    "primary_dark_300": -9408399,
-    "primary_dark_360": -10855846,
-    "primary_dark_600": -869936108,
-    "primary_dark_630": -869936108,
-    "primary_dark_660": -869936108,
-    "primary_dark_700": -16111094,
-    "primary_dark_800": -15453164,
-    "primary_dark_900": -15458284,
-    "uikit_btn_bg_color_selector_red": -15458304,
-    "uikit_settings_item_text_color_dark": -855310,
-    "white_500": -855310,
-    "status_green_500": -5197136,
-    "status_yellow": -9408399,
-    "status_grey_200": -10855846
+    "brand_500": -65536,
+    "brand_560": -65536,
+    "brand_new": -65536,
+    "brand_new_500": -65536,
+    "primary_dark_100": -2236963,  // белый холодный (#F2F2F2)
+    "primary_dark_200": -4473925,  // серый дымчатый (#707070)
+    "primary_dark_300": -6710887,  // стальной серый (#5A5A5A)
+    "primary_dark_360": -3355444,  // тёмный гранит (#3C3C3C)
+    "primary_dark_600": -15132390, // графитовый серый (#2E2E2E)
+    "primary_dark_630": -15132390,
+    "primary_dark_660": -15132390,
+    "primary_dark_700": -1644826,  // глубокий чёрный (#0A0A0A)
+    "primary_dark_800": -2236962,  // серебристый акцент (#B0B0B0)
+    "primary_dark_900": -460551,   // тёмный бордо (#4A1C1C)
+    "uikit_btn_bg_color_selector_red": -65536,
+    "uikit_settings_item_text_color_dark": -2236963,
+    "white_500": -2236963,
+    "status_green_500": -4473925,
+    "status_yellow": -6710887,
+    "status_grey_200": -3355444
   },
   "drawable_tints": {
-    "drawable_bg_reaction_dark": -869936108,
-    "drawable_overlay_channels_selected_dark": -869936108,
-    "ic_channel_text": -9408399,
-    "ic_sidebar_notifications_on_dark_24dp": -15458304,
-    "ic_sidebar_notifications_off_dark_24dp": -9408399,
-    "ic_status_online_16dp": -5197136,
-    "ic_status_dnd_16dp": -15458304,
-    "ic_status_idle_16dp": -9408399,
-    "ic_status_offline_16dp": -10855846
+    "drawable_bg_reaction_dark": -15132390,
+    "drawable_overlay_channels_selected_dark": -15132390,
+    "ic_channel_text": -6710887,
+    "ic_sidebar_notifications_on_dark_24dp": -65536,
+    "ic_sidebar_notifications_off_dark_24dp": -6710887,
+    "ic_status_online_16dp": -4473925,
+    "ic_status_dnd_16dp": -65536,
+    "ic_status_idle_16dp": -6710887,
+    "ic_status_offline_16dp": -3355444
   },
   "raws": {}
-}
+  }
