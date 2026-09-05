@@ -20,7 +20,7 @@
     "input_background": -6710887,  // стальной серый (#5A5A5A)
     "blocked_bg": -6710887,
     "statusbar": -1644826,
-    "mention_highlight": -65536,   // красный акцент
+    "mention_highlight": -65536,
     "active_channel": -65536
   },
   "colors": {
@@ -28,19 +28,19 @@
     "brand_560": -65536,
     "brand_new": -65536,
     "brand_new_500": -65536,
-    "primary_dark_100": -2236963,  // белый холодный (#F2F2F2)
+    "primary_dark_100": -3355444,  // тёмный гранит (#3C3C3C)
     "primary_dark_200": -4473925,  // серый дымчатый (#707070)
     "primary_dark_300": -6710887,  // стальной серый (#5A5A5A)
-    "primary_dark_360": -3355444,  // тёмный гранит (#3C3C3C)
-    "primary_dark_600": -15132390, // графитовый серый (#2E2E2E)
+    "primary_dark_360": -15132390, // графитовый серый (#2E2E2E)
+    "primary_dark_600": -15132390,
     "primary_dark_630": -15132390,
     "primary_dark_660": -15132390,
     "primary_dark_700": -1644826,  // глубокий чёрный (#0A0A0A)
-    "primary_dark_800": -2236962,  // серебристый акцент (#B0B0B0)
-    "primary_dark_900": -460551,   // тёмный бордо (#4A1C1C)
+    "primary_dark_800": -460551,   // приглушённый бордо (#4A1C1C)
+    "primary_dark_900": -140000,   // тёмный кармин (#140000)
     "uikit_btn_bg_color_selector_red": -65536,
-    "uikit_settings_item_text_color_dark": -2236963,
-    "white_500": -2236963,
+    "uikit_settings_item_text_color_dark": -4473925,
+    "white_500": -4473925,         // заменён на серый дымчатый
     "status_green_500": -4473925,
     "status_yellow": -6710887,
     "status_grey_200": -3355444
@@ -57,4 +57,4 @@
     "ic_status_offline_16dp": -3355444
   },
   "raws": {}
-  }
+}
