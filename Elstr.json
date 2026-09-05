@@ -1,15 +1,34 @@
 {
-    "manifest": {
-        "author": "le_mus1c",
-        "name": "Elstr",
-        "version": "1.0.0"
-    },
-    "background": {
-        "url": "https://raw.githubusercontent.com/ataybek2008-byte/le_mus1c/refs/heads/main/Picsart_26-09-05_21-33-22-365.jpg"
-    },
-    "fonts": {},
-    "simple_colors": {},
-    "colors": {},
-    "drawable_tints": {},
-    "raws": {}
+  "manifest": {
+    "author": "le_mus1c",
+    "name": "Elstr",
+    "version": "1.0.0"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/ataybek2008-byte/le_mus1c/refs/heads/main/Picsart_26-09-05_21-33-22-365.jpg",
+    "scrolling": false,
+    "transparency_alpha": 215,
+    "overlay_alpha": 50
+  },
+  "simple_colors": {
+    "accent": "#E52B2B",
+    "background": "#11161D",
+    "background_secondary": "#182029",
+    "active_channel": "#E52B2B",
+    "mention_highlight": "#3A141A",
+    "statusbar_color": "#0B0E12",
+    "nav_bar_color": "#0B0E12",
+    "text_normal": "#E0E6ED",
+    "text_muted": "#728294"
+  },
+  "colors": {
+    "brand_500": "#E52B2B",
+    "primary_dark_600": "#11161D",
+    "primary_dark_800": "#0A0D11",
+    "primary_dark_900": "#050709"
+  },
+  "drawable_tints": {
+    "ic_sidebar_notifications": "#E52B2B",
+    "ic_status_online_16dp": "#8BB5D9"
+  }
 }
