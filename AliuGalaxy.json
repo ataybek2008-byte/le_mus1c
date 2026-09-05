@@ -1,0 +1,48 @@
+{
+  "manifest": {
+    "author": "Eric",
+    "version": "4.3.2",
+    "name": "AliuGalaxy☻",
+    "updater": "https://raw.githubusercontent.com/Firedragon88274/Aliucord-Galaxy-theme/main/AliuGalaxy.json",
+    "transparency_mode": 3
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/Firedragon88274/Aliucord-Galaxy-theme/main/bg.png",
+    "blur_radius": 1,
+    "overlay_alpha": 95
+  },
+  "fonts": {
+    "ginto_bold": "https://github.com/Firedragon88274/Aliucord-Galaxy-theme/raw/main/GlacialIndifference-Bold.ttf",
+    "ginto_medium": "https://github.com/Firedragon88274/Aliucord-Galaxy-theme/raw/main/GlacialIndifference-Regular.ttf",
+    "ginto_regular": "https://github.com/Firedragon88274/Aliucord-Galaxy-theme/raw/main/GlacialIndifference-Regular.ttf",
+    "whitney_bold": "https://github.com/Firedragon88274/Aliucord-Galaxy-theme/raw/main/GlacialIndifference-Bold.ttf",
+    "whitney_medium": "https://github.com/Firedragon88274/Aliucord-Galaxy-theme/raw/main/GlacialIndifference-Regular.ttf",
+    "whitney_semibold": "https://github.com/Firedragon88274/Aliucord-Galaxy-theme/raw/main/GlacialIndifference-Regular.ttf"
+  },
+  "simple_colors": {
+    "background": 3224117,
+    "background_secondary": 3553086,
+    "statusbar": 0,
+    "mention_highlight": 1228541514,
+    "active_channel": 851599078,
+    "accent": -3571729
+  },
+  "colors": {
+    "uikit_btn_bg_color_selector_red": -13997085,
+    "white_500": -1787660,
+    "primary_dark_360": -5588737,
+    "primary_dark_200": -2902279,
+    "primary_dark_300": -5492758,
+    "uikit_settings_item_text_color_dark": -2519041,
+    "primary_dark_400": 1093414082,
+    "uikit_settings_item_text_color_light": 1751329986,
+    "primary_dark_330": -7041041
+  },
+  "drawable_tints": {
+    "drawable_bg_reaction_dark": 964182247,
+    "ic_mobile": -13489707,
+    "ic_channel_text": -4182039
+  },
+  "raws": {}
+}
+
