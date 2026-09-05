@@ -8,44 +8,44 @@
   "background": {
     "url": "https://raw.githubusercontent.com/ataybek2008-byte/le_mus1c/refs/heads/main/Picsart_26-09-05_21-33-22-365.jpg",
     "blur_radius": 0,
-    "overlay_alpha": 85
+    "overlay_alpha": 95
   },
   "fonts": {},
   "simple_colors": {
-    "accent": -1750229,
-    "background": -15855593,
-    "background_secondary": -15396830,
-    "active_channel": -1750229,
-    "mention_highlight": 1088760619,
-    "statusbar": -16182770
+    "accent": -1703936,
+    "background": -16250870,
+    "background_secondary": -15597035,
+    "active_channel": -1703936,
+    "mention_highlight": 989855744,
+    "statusbar": -16777216
   },
   "colors": {
-    "brand_500": -1750229,
-    "brand_560": -4744164,
-    "brand_new": -1750229,
-    "brand_new_500": -1750229,
-    "primary_dark_100": -2046227,
-    "primary_dark_200": -3813686,
-    "primary_dark_300": -7300941,
-    "primary_dark_360": -9280876,
-    "primary_dark_600": -15396830,
-    "primary_dark_630": -15659751,
-    "primary_dark_700": -15855593,
-    "primary_dark_800": -16052199,
-    "primary_dark_900": -16314870,
-    "uikit_btn_bg_color_selector_red": -1750229,
-    "uikit_settings_item_text_color_dark": -2046227,
-    "white_500": -2046227,
-    "status_green_500": -10693692
+    "brand_500": -1703936,
+    "brand_560": -5046272,
+    "brand_new": -1703936,
+    "brand_new_500": -1703936,
+    "primary_dark_100": -1644826,
+    "primary_dark_200": -3355444,
+    "primary_dark_300": -6710887,
+    "primary_dark_360": -10066330,
+    "primary_dark_600": -15461610,
+    "primary_dark_630": -15790319,
+    "primary_dark_700": -16119800,
+    "primary_dark_800": -16382456,
+    "primary_dark_900": -16645117,
+    "uikit_btn_bg_color_selector_red": -1703936,
+    "uikit_settings_item_text_color_dark": -1,
+    "white_500": -1,
+    "status_green_500": -1644826
   },
   "drawable_tints": {
-    "ic_channel_text": -9280876,
-    "ic_sidebar_notifications_on_dark_24dp": -1750229,
-    "ic_sidebar_notifications_off_dark_24dp": -9280876,
-    "ic_status_online_16dp": -10693692,
-    "ic_status_dnd_16dp": -1750229,
-    "ic_status_idle_16dp": -689152,
-    "ic_status_offline_16dp": -9544819
+    "ic_channel_text": -10066330,
+    "ic_sidebar_notifications_on_dark_24dp": -1703936,
+    "ic_sidebar_notifications_off_dark_24dp": -10066330,
+    "ic_status_online_16dp": -1644826,
+    "ic_status_dnd_16dp": -1703936,
+    "ic_status_idle_16dp": -5046272,
+    "ic_status_offline_16dp": -10066330
   },
   "raws": {}
 }
