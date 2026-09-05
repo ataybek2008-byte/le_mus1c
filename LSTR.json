@@ -1,0 +1,17 @@
+{
+    "manifest": {
+        "author": "misc_sss",
+        "name": "LSTR",
+        "version": "1.0.0"
+    },
+    "background": {
+        "overlay_alpha": 3,
+        "url": "1351231_1.png⁠",
+        "blur_radius": 2
+    },
+    "fonts": {},
+    "simple_colors": {},
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
