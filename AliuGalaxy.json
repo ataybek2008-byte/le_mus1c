@@ -21,26 +21,38 @@
     "whitney_semibold": "https://github.com/Firedragon88274/Aliucord-Galaxy-theme/raw/main/GlacialIndifference-Regular.ttf"
   },
   "simple_colors": {
-    "background": 0,
-    "background_secondary": 2631720,
-    "statusbar": 0,
-    "mention_highlight": 16711680,
-    "active_channel": 8421504,
-    "accent": -1
-  },
-  "colors": {
-    "bottom_nav_bg": 2631720,
-    "channel_list_bg": 2631720,
-    "uikit_btn_bg_color_selector_red": -65536,
-    "white_500": -1,
-    "primary_dark_360": -3355444,
-    "primary_dark_200": -4473925,
-    "primary_dark_300": -5592406,
-    "uikit_settings_item_text_color_dark": -2236963,
-    "primary_dark_400": -6710887,
-    "uikit_settings_item_text_color_light": 16777215,
-    "primary_dark_330": -4473925
-  },
+  "background": 0,
+  "background_secondary": 1579032,
+  "statusbar": 0,
+  "mention_highlight": 10027008,
+  "active_channel": 3158064,
+  "accent": 10027008
+},
+
+"colors": {
+  "bottom_nav_bg": 921102,
+  "channel_list_bg": 1579032,
+
+  "uikit_btn_bg_color_selector_red": 10027008,
+
+  "white_500": -1,
+
+  "primary_dark_360": -2236963,
+  "primary_dark_200": -4473925,
+  "primary_dark_300": -5592406,
+  "primary_dark_400": -6710887,
+
+  "uikit_settings_item_text_color_dark": -2236963,
+  "uikit_settings_item_text_color_light": 16777215,
+
+  "primary_dark_330": -3355444
+},
+
+"drawable_tints": {
+  "drawable_bg_reaction_dark": 10027008,
+  "ic_mobile": -1,
+  "ic_channel_text": -2236963
+}
   "drawable_tints": {
     "drawable_bg_reaction_dark": 16711680,
     "ic_mobile": -1,
