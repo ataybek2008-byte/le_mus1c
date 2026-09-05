@@ -2,7 +2,7 @@
   "manifest": {
     "author": "le_mus1c",
     "name": "Elstr",
-    "version": "2.2.0",
+    "version": "2.3.0",
     "transparency_mode": 3
   },
 
@@ -28,7 +28,6 @@
   },
 
   "colors": {
-
     "brand_100": -1754827,
     "brand_200": -1754827,
     "brand_300": -1754827,
@@ -46,11 +45,11 @@
     "brand_new_360": -1754827,
 
     "primary_dark_100": -9408400,
-    "primary_dark_200": -4671304,
+    "primary_dark_200": -9408400,
     "primary_dark_300": -9408400,
     "primary_dark_330": -9408400,
-    "primary_dark_360": -4671304,
-    "primary_dark_400": -2536886,
+    "primary_dark_360": -9408400,
+    "primary_dark_400": -9408400,
 
     "primary_dark_600": -870178270,
     "primary_dark_630": -870178270,
@@ -65,16 +64,16 @@
     "primary_660": -9408400,
     "primary_700": -13619152,
 
-    "uikit_btn_bg_color_selector_brand": -1754827,
-    "uikit_btn_bg_color_selector_green": -2536886,
+    "uikit_btn_bg_color_selector_brand": -15198184,
+    "uikit_btn_bg_color_selector_green": -15198184,
     "uikit_btn_bg_color_selector_red": -1754827,
 
     "uikit_settings_item_text_color_dark": -9408400,
     "uikit_settings_item_text_color_light": -4671304,
 
     "white": -4671304,
-    "white_500": -2536886,
-    "white_800": -15198184,
+    "white_500": -4671304,
+    "white_800": -9408400,
 
     "link": -2536886,
     "link_500": -2536886,
@@ -97,7 +96,7 @@
     "drawable_overlay_channels_selected_dark": -1754827,
     "drawable_overlay_channels_pressed_dark": -5754318,
 
-    "ic_channel_text": -4671304,
+    "ic_channel_text": -9408400,
 
     "ic_sidebar_notifications_on_dark_24dp": -1754827,
     "ic_sidebar_notifications_off_dark_24dp": -9408400,
