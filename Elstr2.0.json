@@ -1,0 +1,179 @@
+{
+"manifest": {
+"author": "le_mus1c",
+"name": "Elstr",
+"version": "3.0.0",
+"transparency_mode": 3
+},
+
+"background": {
+"url": "https://raw.githubusercontent.com/ataybek2008-byte/le_mus1c/refs/heads/main/Picsart_26-09-05_21-33-22-365.jpg",
+"scrolling": false,
+"blur_radius": 8,
+"transparency_alpha": 195,
+"overlay_alpha": 55
+},
+
+"fonts": {},
+
+"simple_colors": {
+"accent": -1754827,
+
+"background": -16119286,
+"background_secondary": -15198184,
+
+"input_background": -870178270,
+"blocked_bg": -870178270,
+
+"statusbar": -16119286,
+
+"mention_highlight": -2536886,
+
+"active_channel": -13619152
+
+},
+
+"colors": {
+
+"brand_100": -1754827,
+"brand_200": -1754827,
+"brand_300": -1754827,
+"brand_400": -1754827,
+"brand_500": -1754827,
+"brand_560": -1754827,
+"brand_600": -1754827,
+"brand_700": -1754827,
+"brand_800": -1754827,
+"brand_900": -1754827,
+
+"brand_new": -1754827,
+"brand_new_500": -1754827,
+"brand_new_560": -1754827,
+"brand_new_260": -2536886,
+"brand_new_360": -1754827,
+
+"primary_dark_100": -9408400,
+"primary_dark_200": -9408400,
+"primary_dark_300": -9408400,
+"primary_dark_330": -9408400,
+"primary_dark_360": -9408400,
+"primary_dark_400": -9408400,
+
+"primary_dark_600": -16119286,
+"primary_dark_630": -15198184,
+"primary_dark_660": -13619152,
+"primary_dark_700": -16119286,
+"primary_dark_800": -15198184,
+"primary_dark_900": -13619152,
+
+"primary_300": -13619152,
+"primary_600": -15198184,
+"primary_630": -15198184,
+"primary_660": -13619152,
+"primary_700": -13619152,
+
+"primary_700_alpha_60": -5754318,
+
+"black_alpha_10": -1677721590,
+"black_alpha_80": -1342177268,
+
+"transparent": 0,
+
+"uikit_btn_bg_color_selector_brand": -15198184,
+"uikit_btn_bg_color_selector_green": -15198184,
+"uikit_btn_bg_color_selector_red": -1754827,
+
+"uikit_settings_item_text_color_dark": -9408400,
+"uikit_settings_item_text_color_light": -9408400,
+
+"white": -9408400,
+
+"white_500": -1754827,
+
+"white_800": -9408400,
+
+"link": -2536886,
+"link_500": -2536886,
+
+"status_online": -4671304,
+"status_idle": -9408400,
+"status_dnd": -1754827,
+"status_offline": -9408400,
+
+"status_green_500": -4671304,
+"status_yellow": -9408400,
+"status_grey_200": -9408400,
+
+"danger_500": -1754827,
+"danger_600": -5754318,
+"danger_700": -2536886,
+
+"abc_tint_switch_track": -9408400,
+
+"dim_foreground_material_light": -16119286
+
+},
+
+"drawable_tints": {
+
+"drawable_bg_reaction_dark": -870178270,
+
+"drawable_overlay_channels_selected_dark": -13619152,
+"drawable_overlay_channels_pressed_dark": -15198184,
+
+"drawable_button_grey": -9408400,
+"drawable_open_folder_dark": -9408400,
+
+"drawable_button_red": -1754827,
+
+"drawable_voice_indicator_speaking": -1754827,
+"drawable_voice_user_background_speaking": -15198184,
+"drawable_voice_sensitivity_progress": -1754827,
+
+"ic_ban_red_24dp": -1754827,
+
+"ic_sidebar_notifications_on_dark_24dp": -1754827,
+"ic_sidebar_notifications_off_dark_24dp": -9408400,
+
+"ic_thread": -9408400,
+"ic_thread_locked": -9408400,
+"ic_thread_nsfw": -9408400,
+
+"ic_channel_topic_ellipsis_dark": -9408400,
+
+"ic_channel_text": -9408400,
+"ic_channel_locked": -9408400,
+"ic_channel_nsfw": -9408400,
+
+"ic_channel_announcements": -9408400,
+"ic_channel_announcements_locked": -9408400,
+"ic_channel_announcements_nsfw": -9408400,
+
+"ic_channel_announcements_thread": -9408400,
+"ic_channel_announcements_thread_locked": -9408400,
+"ic_channel_announcements_thread_nsfw": -9408400,
+
+"ic_channel_pinned_message": -9408400,
+
+"ic_channel_voice": -9408400,
+"ic_channel_voice_locked": -9408400,
+
+"ic_status_online_16dp": -4671304,
+"ic_status_dnd_16dp": -1754827,
+"ic_status_idle_16dp": -9408400,
+"ic_status_offline_16dp": -9408400,
+
+"ic_content_copy_white_a60_24dp": -9408400,
+"ic_file_download_white_24dp": -9408400,
+"ic_open_in_browser_white_24dp": -9408400,
+"ic_share_white_a60_24dp": -9408400,
+"ic_visibility_white_24dp": -9408400,
+
+"ic_thread_white_24dp": -9408400,
+"ic_notifications_settings_white_a60_24dp": -9408400,
+"ic_account_circle_white_a60_24dp": -9408400
+
+},
+
+"raws": {}
+}
