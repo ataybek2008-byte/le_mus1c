@@ -2,50 +2,55 @@
   "manifest": {
     "author": "le_mus1c",
     "name": "Elstr",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "transparency_mode": 3
   },
   "background": {
     "url": "https://raw.githubusercontent.com/ataybek2008-byte/le_mus1c/refs/heads/main/Picsart_26-09-05_21-33-22-365.jpg",
-    "blur_radius": 0,
-    "overlay_alpha": 95
+    "scrolling": false,
+    "blur_radius": 8,
+    "transparency_alpha": 180,
+    "overlay_alpha": 50
   },
   "fonts": {},
   "simple_colors": {
-    "accent": -1703936,
-    "background": -16250870,
-    "background_secondary": -15597035,
-    "active_channel": -1703936,
-    "mention_highlight": 989855744,
-    "statusbar": -16777216
+    "accent": -1754827,
+    "background": -14916821,
+    "background_secondary": -14324168,
+    "input_background": 1293558058,
+    "blocked_bg": 1293558058,
+    "statusbar": -15722464,
+    "mention_highlight": 1088764213,
+    "active_channel": -1754827
   },
   "colors": {
-    "brand_500": -1703936,
-    "brand_560": -5046272,
-    "brand_new": -1703936,
-    "brand_new_500": -1703936,
-    "primary_dark_100": -1644826,
-    "primary_dark_200": -3355444,
-    "primary_dark_300": -6710887,
-    "primary_dark_360": -10066330,
-    "primary_dark_600": -15461610,
-    "primary_dark_630": -15790319,
-    "primary_dark_700": -16119800,
-    "primary_dark_800": -16382456,
-    "primary_dark_900": -16645117,
-    "uikit_btn_bg_color_selector_red": -1703936,
-    "uikit_settings_item_text_color_dark": -1,
-    "white_500": -1,
-    "status_green_500": -1644826
+    "brand_500": -1754827,
+    "brand_560": -3790808,
+    "brand_new": -1754827,
+    "brand_new_500": -1754827,
+    "primary_dark_100": -2054419,
+    "primary_dark_200": -3813686,
+    "primary_dark_300": -7545938,
+    "primary_dark_600": 1293558058,
+    "primary_dark_630": 1293558058,
+    "primary_dark_700": -14916821,
+    "primary_dark_800": -15396830,
+    "primary_dark_900": -15722464,
+    "uikit_btn_bg_color_selector_red": -1754827,
+    "uikit_settings_item_text_color_dark": -2054419,
+    "white_500": -2054419,
+    "status_yellow": -38870,
+    "status_green_500": -10693692
   },
   "drawable_tints": {
-    "ic_channel_text": -10066330,
-    "ic_sidebar_notifications_on_dark_24dp": -1703936,
-    "ic_sidebar_notifications_off_dark_24dp": -10066330,
-    "ic_status_online_16dp": -1644826,
-    "ic_status_dnd_16dp": -1703936,
-    "ic_status_idle_16dp": -5046272,
-    "ic_status_offline_16dp": -10066330
+    "drawable_bg_reaction_dark": 1293558058,
+    "ic_channel_text": -7545938,
+    "ic_sidebar_notifications_on_dark_24dp": -1754827,
+    "ic_sidebar_notifications_off_dark_24dp": -7545938,
+    "ic_status_online_16dp": -10693692,
+    "ic_status_dnd_16dp": -1754827,
+    "ic_status_idle_16dp": -38870,
+    "ic_status_offline_16dp": -7545938
   },
   "raws": {}
 }
