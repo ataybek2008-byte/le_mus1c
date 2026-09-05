@@ -1,17 +1,50 @@
 {
-    "manifest": {
-        "author": "misc_sss",
-        "name": "LSTR",
-        "version": "1.2.0"
-    },
-    "background": {
-        "overlay_alpha": 3,
-        "url": "https://github.com/ataybek2008-byte/le_mus1c/blob/main/1351231_1.png?raw=true",
-        "blur_radius": 2
-    },
-    "fonts": {},
-    "simple_colors": {},
-    "colors": {},
-    "drawable_tints": {},
-    "raws": {}
+"manifest": {
+"author": "le_mus1c",
+"version": "4.3.8",
+"name": "Mist SciFi Final",
+"updater": "https://raw.githubusercontent.com/Firedragon88274/Aliucord-Galaxy-theme/main/AliuGalaxy.json",
+"transparency_mode": 0
+},
+"background": {
+"url": "https://github.com/ataybek2008-byte/le_mus1c/blob/main/1351231_1.png?raw=true",
+"blur_radius": 2,
+"overlay_alpha": 85,
+"scale_type": "centerCrop"
+},
+"fonts": {
+"ginto_bold": "https://github.com/Firedragon88274/Aliucord-Galaxy-theme/raw/main/GlacialIndifference-Bold.ttf",
+"ginto_medium": "https://github.com/Firedragon88274/Aliucord-Galaxy-theme/raw/main/GlacialIndifference-Regular.ttf",
+"ginto_regular": "https://github.com/Firedragon88274/Aliucord-Galaxy-theme/raw/main/GlacialIndifference-Regular.ttf",
+"whitney_bold": "https://github.com/Firedragon88274/Aliucord-Galaxy-theme/raw/main/GlacialIndifference-Bold.ttf",
+"whitney_medium": "https://github.com/Firedragon88274/Aliucord-Galaxy-theme/raw/main/GlacialIndifference-Regular.ttf",
+"whitney_semibold": "https://github.com/Firedragon88274/Aliucord-Galaxy-theme/raw/main/GlacialIndifference-Regular.ttf"
+},
+"simple_colors": {
+"background": 0,
+"background_secondary": 2631720,
+"statusbar": 0,
+"mention_highlight": 16711680,
+"active_channel": 8421504,
+"accent": -1
+},
+"colors": {
+"bottom_nav_bg": 1315860,
+  "channel_list_bg": 2105376,
+"uikit_btn_bg_color_selector_red": -65536,
+"white_500": -1,
+"primary_dark_360": -3355444,
+"primary_dark_200": -4473925,
+"primary_dark_300": -5592406,
+"uikit_settings_item_text_color_dark": -2236963,
+"primary_dark_400": -6710887,
+"uikit_settings_item_text_color_light": 16777215,
+"primary_dark_330": -4473925
+},
+"drawable_tints": {
+"drawable_bg_reaction_dark": 16711680,
+"ic_mobile": -1,
+"ic_channel_text": -3355444
+},
+"raws": {}
 }
