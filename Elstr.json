@@ -2,7 +2,7 @@
   "manifest": {
     "author": "le_mus1c",
     "name": "Elstr",
-    "version": "2.0.0",
+    "version": "2.1.0",
     "transparency_mode": 3
   },
   "background": {
@@ -36,6 +36,7 @@
     "brand_900": -4121572,
     "brand_new": -4121572,
     "brand_new_500": -4121572,
+
     "primary_dark_100": -9933195,
     "primary_dark_200": -11890859,
     "primary_dark_300": -7304043,
@@ -46,9 +47,11 @@
     "primary_dark_700": -16185078,
     "primary_dark_800": -15535081,
     "primary_dark_900": -140000,
+
     "uikit_btn_bg_color_selector_red": -4121572,
     "uikit_settings_item_text_color_dark": -9933195,
     "white_500": -5878605,
+
     "status_online": -9933195,
     "status_idle": -460551,
     "status_dnd": -4121572,
@@ -56,6 +59,7 @@
     "status_green_500": -9933195,
     "status_yellow": -460551,
     "status_grey_200": -11890859,
+
     "danger_500": -4121572,
     "danger_600": -4121572,
     "danger_700": -4121572
