@@ -2,7 +2,7 @@
 "manifest": {
 "author": "le_mus1c",
 "name": "Elstr",
-"version": "3.0.0",
+"version": "3.1.0",
 "transparency_mode": 3
 },
 
@@ -121,6 +121,10 @@
 "drawable_overlay_channels_selected_dark": -13619152,
 "drawable_overlay_channels_pressed_dark": -15198184,
 
+"item_background_material": -15198184,
+
+"design_bottom_navigation_item_background": -15198184,
+
 "drawable_button_grey": -9408400,
 "drawable_open_folder_dark": -9408400,
 
@@ -171,7 +175,9 @@
 
 "ic_thread_white_24dp": -9408400,
 "ic_notifications_settings_white_a60_24dp": -9408400,
-"ic_account_circle_white_a60_24dp": -9408400
+"ic_account_circle_white_a60_24dp": -9408400,
+
+"icon_save": -9408400
 
 },
 
