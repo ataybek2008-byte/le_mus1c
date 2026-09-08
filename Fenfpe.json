@@ -1,0 +1,70 @@
+{
+  "manifest": {
+    "name": "Nightfox Dusk",
+    "author": "your_name",
+    "license": "Unlicense",
+    "version": "1.0.0"
+  },
+  "background": {
+    "url": "",
+    "overlay_alpha": 140,
+    "blur_radius": 0
+  },
+  "simple_colors": {
+    "background": -13947333,
+    "background_secondary": -14671316,
+    "mention_highlight": 1088979518,
+    "active_channel": 870875710,
+    "statusbar": -15263715,
+    "input_background": -13486780,
+    "blocked_bg": 1075255325
+  },
+  "colors": {
+    "primary_dark_100": -15263715,
+    "primary_dark_200": -855830,
+    "primary_dark_300": -5792626,
+    "primary_dark_330": -7699336,
+    "primary_dark_360": -3555664,
+    "primary_dark_400": -7699336,
+    "primary_dark_600": -13947333,
+    "primary_dark_630": -14671316,
+    "primary_dark_660": -13486780,
+    "primary_dark_700": -14671316,
+    "primary_dark_800": -15132126,
+
+    "primary_300": -3643602,
+    "primary_600": -13486780,
+    "primary_630": -14671316,
+    "primary_660": -13486780,
+    "primary_700": -14671316,
+
+    "brand_new": -1539522,
+    "brand_new_260": -22948,
+    "brand_new_360": -22948,
+    "brand_new_500": -1539522,
+    "brand_new_560": -1539522,
+    "brand_500_alpha_20": 870875710,
+    "link": -22948,
+    "link_500": -22948,
+
+    "black_alpha_10": 437721117,
+    "black_alpha_80": -870901731,
+    "white": -855830,
+    "white_500": -855830,
+    "white_800": -434101716,
+    "transparent": 0,
+    "status_grey_200": -7699336,
+
+    "uikit_btn_bg_color_selector_brand": -1539522,
+    "uikit_btn_bg_color_selector_green": -14441127,
+    "uikit_btn_bg_color_selector_red": -1551298,
+    "uikit_settings_item_text_color_dark": -7699336,
+    "uikit_settings_item_text_color_light": -13486780
+  },
+  "drawableTints": {
+    "drawable_overlay_channels_selected_dark": 870875710,
+    "drawable_overlay_channels_pressed_dark": 437721117,
+    "drawable_button_grey": -13486780,
+    "drawable_voice_indicator_speaking": -1539522
+  }
+}
